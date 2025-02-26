@@ -14,7 +14,7 @@ namespace ConsoleGameKurzaev
             int health = 100;
             int gold = 50;
             int arrows = 20;
-            List<string> inventory = new List<string>() { "Мечь", "Стрелы" }; 
+            List<string> inventory = new List<string>() { "Меч", "Стрелы" }; 
 
             
             string[] dungeonMap = GenerateDungeonMap();
